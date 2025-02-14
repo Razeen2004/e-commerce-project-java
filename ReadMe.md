@@ -21,6 +21,4 @@ This is a simple command-line e-commerce application built using Java. It demons
 ## How to Run the Project
 1. Ensure you have Java installed on your system.
 2. Download or clone the project.
-3. Navigate to the `src` directory:
-   ```bash
-   cd ECommerceApp/src
+3. Run it and Enjoy!
